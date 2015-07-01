@@ -1,0 +1,32 @@
+{
+  "name": "local-mock",
+  "version": "1.0.0",
+  "description": "Mock api response at your local machine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yujiangshui/local-mock.git"
+  },
+  "keywords": [
+    "mock",
+    "api"
+  ],
+  "author": {
+    "name": "yujiangshui",
+    "email": "yujiangshui@gmail.com",
+    "url": "http://yujiangshui.com"
+  },
+  "contributors": [{
+    "name": "muxin",
+    "email": "",
+    "url": ""
+  }],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yujiangshui/local-mock/issues"
+  },
+  "homepage": "https://github.com/yujiangshui/local-mock"
+}
